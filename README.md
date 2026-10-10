@@ -898,7 +898,7 @@ Develop a user interface for research demonstrations, with clear medical disclai
 
 This project was developed collaboratively as a Deep Learning and Computer Vision project.
 
-**Contributors: Contribute with  RAMA BAWANEH , link her profile : https://github.com/toqa2024 
+**Contributors: Contribute with  RAMA BAWANEH , link her profile :(https://github.com/ramabawaaneh9)
 
  Disclaimer
 
